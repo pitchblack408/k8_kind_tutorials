@@ -1,7 +1,7 @@
 # Lesson Plan: Kubernetes Basics with `kind`
 
-Author: Michael Martin
-Date: 2025-09-26
+Author: Michael Martin<br>
+Date: 2025-09-26<br>
 Version: 1.0
 
 ## Learning Objectives
