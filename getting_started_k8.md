@@ -1,6 +1,10 @@
-# 📘 Lesson Plan: Kubernetes Basics with `kind`
+# Lesson Plan: Kubernetes Basics with `kind`
 
-## 🎯 Learning Objectives
+Author: Michael Martin
+Date: 2025-09-26
+Version: 1.0
+
+## Learning Objectives
 By the end, learners will:
 - Install and use `kind` to create Kubernetes clusters.
 - Practice `kubectl` commands against a local cluster.
@@ -27,7 +31,7 @@ By the end, learners will:
     chmod +x ./kind && sudo mv ./kind /usr/local/bin/
     ```
 
-- **Homework:** Draw Kubernetes architecture and label components.
+- **Exercise:** Draw Kubernetes architecture and label components.
 
 ---
 
@@ -274,7 +278,7 @@ By the end, learners will:
 
 ---
 
-## 📚 Resources
+## **Resources**
 - [Kubernetes Docs](https://kubernetes.io/docs/)
 - [kind Docs](https://kind.sigs.k8s.io/)
 - Katacoda Kubernetes Scenarios (hands-on labs)
