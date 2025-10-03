@@ -23,7 +23,7 @@ By the end, learners will:
 
     ```bash
     # Install kubectl (Linux example)
-    curl -LO "https://dl.k8s.io/release/$(curl -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+    curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
     chmod +x kubectl && sudo mv kubectl /usr/local/bin/
     
     # Install kind
